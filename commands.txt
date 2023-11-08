@@ -1,0 +1,5 @@
+project setup :-
+docker-compose run --rm app sh -c "django-admin startproject app ."
+
+github actions :-
+commit the changes and push the code
