@@ -1,5 +1,5 @@
-project setup :-
-docker-compose run --rm app sh -c "django-admin startproject app ."
+run at time : 
 
-github actions :-
-commit the changes and push the code
+3- make changes to core tests/ and del views add core/tests/__init.py__.
+
+4- add core/management-(__init.py__)/commands/wait_for_db.py - __init.py__.
